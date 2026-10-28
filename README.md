@@ -1,138 +1,17 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:6930C3,100:00E5FF&height=220&section=header&text=PRAJVALI%20DESHMUKH&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Developer%20%7C%20AgenticAI%20Developer&descSize=17&descAlignY=58" width="80%" alt="Prajvali Deshmukh banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello+World%2C+I'm+Prajvali!;Python+%2B+AI+%2B+Curiosity;Exploring+Ideas+Through+Code;Welcome+To+My+GitHub+Universe" alt="Animated typing introduction"/>
-
-<br/>
-
-<a href="https://github.com/praju6">
-<img src="https://img.shields.io/badge/GitHub-praju6-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=praju6&label=PROFILE+VIEWS&color=6930C3&style=for-the-badge" alt="Profile views"/>
-
-</div>
-
----
-
-# Hi, I'm Prajvali 👋
-
-### AI Engineer | LLM Developer | Open Source Contributor
-
-I build intelligent applications using Large Language Models,
-Generative AI, Machine Learning, and AI Agents.
-
-- 🔭 Currently building: Production-ready AI agents
-- 🌱 Exploring: RAG, fine-tuning, and multimodal AI
-- 🤝 Open to: AI engineering collaborations
-- 💼 Interested in: Applied AI and ML engineering
-
-## 🧠 Technical Expertise
-
-**Languages:** Python, VS code, SQL
-
-**AI/ML:** PyTorch, Transformers, Scikit-learn
-
-**LLM Stack:** LangChain, Hugging Face, RAG,
-Vector Databases, AI Agents
-
-**Backend & Cloud:** FastAPI, Docker, AWS
-
-## 🚀 Featured Projects
-
-### 1. AI Research Assistant
-An intelligent research assistant using RAG,
-semantic search, and source-grounded responses.
-
-### 2. Multi-Agent Automation System
-Autonomous agents for planning, research,
-tool execution, and workflow automation.
-
-### 3. Custom LLM Fine-Tuning
-Domain-specific LLM fine-tuning using
-LoRA/QLoRA and evaluation pipelines.
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-## 🌐 Connect
-
-- Portfolio: https://yourwebsite.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email:prajvalikadlag@gmail.com
+# 💫 About Me:
+Hi, I'm Prajvali 👋<br>AI Engineer | LLM Developer | RPA Developer Open Source Contributor<br>I build intelligent applications using Large Language Models, Generative AI, Machine Learning, and AI Agents.<br><br>🔭 Currently building: Production-ready AI agents<br>🌱 Exploring: RAG, fine-tuning, and multimodal AI<br>🤝 Open to: AI engineering collaborations<br>💼 Interested in: Applied AI and ML engineering
 
 
-     
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/praju_67d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajvalikadlag@gmail.com) 
 
-
-## `> tech_focus` ⚡
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub and VS Code"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=B388FF" alt="Artificial Intelligence"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Problem Solving"/>
-
-</div>
-
-## `> github_analytics` 📊
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=praju6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=B388FF" height="170" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="170" alt="Top repository languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=praju6&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=B388FF&currStreakLabel=00E5FF" alt="GitHub streak"/>
-
-</div>
-
-## `> contribution_graph` 🌌
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praju6&bg_color=0D1117&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-## `> explore_my_work` 🚀
-
-<div align="center">
-
-Explore my repositories to see my code, experiments, and projects.
-
-<br/>
-
-<a href="https://github.com/praju6?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore repositories"/>
-</a>
-
-</div>
-
-## `> connect` 🌐
-
-<div align="center">
-
-<a href="https://github.com/praju6">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
-</a>
-
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=for-the-badge&logo=dgraph&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pkadlag6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pkadlag6&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pkadlag6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=pkadlag6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-### `while(alive): learn(); build(); improve()`
-
-*Curiosity fuels innovation. Code turns ideas into reality.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6930C3,100:050816&height=110&section=footer" width="100%" alt="Decorative footer"/>
-
-</div>
